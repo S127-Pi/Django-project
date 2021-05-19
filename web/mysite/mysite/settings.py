@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+#superuser created with username and password
 #user name: s
 #pass: 123
 INSTALLED_APPS = [
